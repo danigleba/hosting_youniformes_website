@@ -1,0 +1,10 @@
+2d zelda like mini proyect for pygame 
+
+Hacer el zelda original de la nes
+
+1. El menu con la animacion de fondo y la musica y que ponfa press any key to srart
+2. apareces en la primera seccion del juego donde esta la cueva de la espada, no pudes ir por los otrs caminos, solo la cueba de la espada.
+3. Si entras en la cueba bas a otra pantalla como la del juego
+4. Si itneractuas con la espada o el anicano the dicen el mensaje.
+5. Si ya te han dado el mensaje la ewpada desparece del overwworld y aparee como icono en la parte sperior, si itneractuas con el anciaio de dice otra cosa.
+6. Opcion the quit, si picas a la q, esc o la cruz te dice mensaje, quieres salir, si o no, si picas si si y si no no.

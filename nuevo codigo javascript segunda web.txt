@@ -1,0 +1,40 @@
+    var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    if (isMobile) {
+       //Top bar
+        document.getElementById("top_bar").style.marginTop="130px";
+       //Logo Instagram
+        document.getElementById("logo_ig").style.width="100px";
+        document.getElementById("logo_ig").style.height="100px";
+        document.getElementById("logo_ig").style.backgroundSize="100px";
+        document.getElementById("logo_ig").style.marginTop="-80px";
+       //Logo coreo
+        document.getElementById("logo_correo").style.width="100px";
+        document.getElementById("logo_correo").style.height="100px";
+        document.getElementById("logo_correo").style.backgroundSize="100px";
+        document.getElementById("logo_correo").style.marginTop="-67px";
+        document.getElementById("logo_correo").style.marginLeft="195px";
+       //Texto top Inicio
+        document.getElementById("link").style.fontSize="55px";
+        document.getElementById("link").style.marginTop="-70px";
+        document.getElementById("link").style.marginLeft="380px";
+       //Texto top Nuestros Uniformes
+        document.getElementById("link2").style.fontSize="55px";
+
+
+
+
+
+
+
+
+
+
+
+
+
+    } else {
+        
+        
+
+
+    }

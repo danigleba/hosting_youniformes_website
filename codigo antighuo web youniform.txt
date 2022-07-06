@@ -1,0 +1,200 @@
+código antiguo web youniform:
+
+ <!
+    <div id="nuestros_servicios" class="div_nusetros_servicios" style="width: 1350px; height: 1640px;background-size: 1380px;box-shadow: 0px 0px 0px #474747;z-index: 10;border-radius: 0px;margin: 1000px auto;visibility: hidden;">
+
+        
+        <div id="servicio1">
+        <div id="div_servicio1" class="servicio" style="position: absolute;height: 400px;width: 550px;border-radius: 2px;margin-top: 160px;box-shadow: 0px 0px0px gray;margin-left: -50px">
+            <div id="linea_sepa" style="position: absolute; height: 5px; border-top: 2px solid black;margin-left: 60px;margin-top: 200px;width: 120px; "></div>
+            
+            <div id="icon1" class="icon" style="height: 450px;background-size: 105px;margin: 75px auto;"></div>
+            
+            <a id="titulo_diseno" style="font-family: Consolas; font-size: 28px; margin-left:15s0px ;margin-top:120px;position: absolute;text-shadow: 0px 0px 0px gray;">DISEÑO</a>
+        
+       
+        
+        </div>
+         <div id="up_servicio1" class="second_servicio" style="position: absolute;height: 400px; width: 550px;border-radius: 2px;margin-top: 160px;margin-left: -50px;box-shadow: 0px 0px 0px gray;">
+             
+            <div style="width: 0,001px;">
+             
+                <a id="text_diseno" style="letter-spacing: 0.01em;font-family: Consolas;text-align: center; margin-top: 100px;position: absolute; margin-left: -275px;padding: 25px;font-size: 15px;line-height: 1.4;font-style: bold;">Analizaremos la cultura escolar para diseñar 3 versiones de uniformes para el centro. Una vez aprobados por dirección, se hará a los alumnos escoger el que prefieren. El más votados será el producido.</a>
+             </div>
+         </div>
+        </div>
+        <div id="servicio2">
+         <div id="div_servicio2"  style="position: absolute;height: 400px; width: 550px;background-color: white;border-radius: 2px;margin-top: 160px;margin-left: 400px;box-shadow: 0px 0px 0px gray;">
+            <div id="linea_sepa2" style="position: absolute; height: 5px; border-top: 2px solid black;margin-left: 60px;margin-top: 200px;width: 120px; "></div>
+
+             
+             <div id="icon_2" class="icon_2" style="height: 150px;width: 150px;background-size: 105px;margin: 25px auto;"></div>
+             
+            
+             <a id="titulo_produccion" style="font-family: Consolas; font-size: 28px; margin-left: 90px;position: absolute;text-shadow: 0px 0px 0px gray;margin: 35px 45px;">PRODUCCIÓN</a>
+        </div>
+
+        <div id="up_servicio2" class="second_servicio" style="position: absolute;height: 400px; width: 550px;border-radius: 2px;margin-top: 160px;margin-left: 400px;box-shadow: 0px 0px 0px gray;">
+            <a id="text_produccion" style="letter-spacing: 0.01em;font-family: Consolas;text-align: center; margin-top: 0px;position: absolute; margin-left: -120px;padding: 25px;font-size: 15px;line-height: 1.4;font-style: bold;">El diseño escogido será enviado a talleres locales, los cuales son tratados con sueldos y culturas laborales dignas, que, con los mejores materiales escogidos de forma sostenible, producirán los uniformes. Nos aseguramos de que estos sean cómodos, duraderos y resistentes frente a las temperaturas.</a>
+        </div>
+        </div>    
+        <div id="div_servicio3">
+        <div  id="servicio3" style="position: absolute;height: 400px; width: 540px;background-color: white;border-radius: 2px;margin-top:160px;margin-left: 820px;box-shadow: 0px 0px 0px gray;">
+            <div id="linea_sepa3" style="position: absolute; height: 5px; border-top: 2px solid black;margin-left: 60px;margin-top: 200px;width: 120px; "></div>
+
+            
+            <div id="icon_3" class="icon_3" style="height: 150px;width: 150px;background-size: 115px;margin: 17px auto;"></div>
+            
+            <a id="titulo_distribucion" style="font-family: Consolas; font-size: 65px; margin-left: 50px;margin-top: 170px;position: absolute;text-shadow: 0px 0px 0px gray;">DISTRIBUCIÓN</a>
+               
+        </div>
+        
+        <div id="up_servicio3" class="second_servicio" style="position: absolute;height: 400px; width: 540px;border-radius: 2px;margin-top:160px;margin-left: 820px;box-shadow: 0px 0px 0px gray;">
+            <a id="text_distribucion" style="letter-spacing: 0.01em;font-family: Consolas;text-align: center; margin-top: 0px;position: absolute; padding: 25px;font-size: 15px;line-height: 1.4;font-style: bold;">Los uniformes serán trasladados al centro por nosotros y distribuidos en estos mismos. Las familias pueden comprar estos tanto en el mismo lugar que los anteriores uniformes como entrando en directo contacto con nosotros. Estos serán entregados en bolsas de papel, de esta forma reduciendo el uso de plástico. </a>
+        </div>
+        </div>
+         </div>
+
+    <div id="why_change" style="width: 1350px; height: 670px;margin-top: 0px;background-color: transparent;z-index: -10;margin: 0px auto;">
+        <a id="titulo_why_change" style="position: absolute;color: black; font-size: 45px; font-family: Consolas;font-weight: 500;margin-top: 40px; margin-left: 300px;"><b>Porque cambiar nuestros uniformes</b></a>
+   
+        <div id="gris_line" style="width: 1350px; height: 270px; margin-left: 0px; position: absolute; margin-top: 150px; z-index: -3;background-color: #f6f2f2";></div>
+        
+        
+        <div id="gris_line2" style="width: 1350px; height: 270px; margin-left: 0px; position: absolute; margin-top: 150px; z-index: -3;background-color: #f6f2f2";visibility: hidden;""></div>
+        
+        <div id="gris_line3" style="width: 1350px; height: 270px; margin-left: 0px; position: absolute; margin-top: 150px; z-index: -3;background-color: #f6f2f2";visibility: hidden;""></div>
+    <div style="margin-top: 1000px">
+        <div id="problema1" class="problema" style="height: 250px; position: absolute;border-radius: 400px;margin-top: 160px;margin-left: 150px;box-shadow: 0px 0px 0px gray;text-align: center;background-color: #a02626; background-size: 120px;background-position: center; background-repeat: no-repeat;width: 500px;">
+            <a id="text_problema1" style="font-family: Consolas;position: absolute;margin-top: 270px;margin-left: -120px;">Los diseños anticuados de los uniformes generan en los alumnos una peor imagen propia, de esta forma directamente perjudicando sus rendimientos escolares.</a>
+        </div>
+    
+        <div id="up_problema1" class="problema_2" style="height: 250px; width: 500px; position: absolute;border-radius: 400px;margin-top: 160px;margin-left: 150px;text-align: center;z-index: 2;">
+            <div id="cuadrado_fondo_text_problema1" class="cuadrado_bloq" style="position:absolute;height: 150px; width: 250px;margin-top: 260px;">
+                <a id="up_text_problema1" style="font-family: Consolas;position: absolute;margin-top: 10px;margin-left: -120px;">Los "Youniforms" son diseñados por propios alumnos y finalmente escogidos por los mismos del centro, de esta forma asegurando que les hacen sentirse sus mejores versiones. Así mejorando tanto sus estados de ánimo como sus resultados escolares.</a>
+            </div>
+        </div>
+        
+        
+        <div id="problema2" class="problema_3" style="height: 250px; width: 500px; position: absolute;border-radius: 400px;margin-top: 160px;margin-left: 550px;box-shadow: 0px 0px 0px gray;text-align: center;background-color: #a02626; background-size: 120px;background-position: center; background-repeat: no-repeat;">
+         
+            <a id="text_problema2" style="font-family: Consolas;position: absolute;margin-top: 270px;margin-left: -120px;">La baja calidad de los materiales y producción de los uniformes generan: incomodidad, poca durabilidad (no son reutilizables) y desprotección frente a las temperaturas.</a> 
+        </div>
+    
+        <div id="up_problema2" class="problema_4" style="height: 250px; width: 500px; position: absolute;border-radius: 400px;margin-top: 160px;margin-left: 550px;text-align: center;z-index: 2;width: 500px">
+            <div  id="cuadrado_fondo_text_problema2" class="cuadrado_bloq" class="cuadrado_bloq" style="position:absolute;height: 170px; width: 250px;margin-top: 260px;">
+                <a id="up_text_problema2"  style="font-family: Consolas;position: absolute;margin-top: 10px;margin-left: -120px;">Los "Youniforms" utilizan los mejores materiales y métodos de producción para asegurar que son: cómodos, duraderos y protegen a los alumnos frente a las temperaturas. De esta forma otorgando a estos una experiencia educativa menos asfixiante.</a>
+            </div>
+        </div>
+        
+        
+        <div id="problema3" class="problema_5" style="height: 250px; width: 500px; position: absolute;border-radius: 400px;margin-top: 160px;margin-left: 750px;box-shadow: 0px 0px 0px gray;text-align: center;background-color: #a02626; background-size: 120px;background-position: center; background-repeat: no-repeat;">
+            <a id="text_problema3" style="font-family: Consolas;position: absolute;margin-top: 270px;margin-left: -120px;">La producción y distribución de uniformes no sigue las medidas necesarias para respetar a nuestro planeta y su medio ambiente. </a>
+        </div>
+    
+        <div id="up_problema3" class="problema_6" style="height: 250px; width: 500px; position: absolute;border-radius: 400px;margin-top: 160px;margin-left: 750px;text-align: center;z-index: 2;">
+            <div id="cuadrado_fondo_text_problema3" class="cuadrado_bloq" class="cuadrado_bloq" style="position:absolute;height: 150px; width: 250px;margin-top: 260px;">
+                <a id="up_text_problema3" style="font-family: Consolas;position: absolute;margin-top: 10px;margin-left: -120px;">Los "Youniforms" son producidos y distribuidos de forma que en todo momento se respetan, y se procuran perfeccionar, todas las medidas necesarias para asegurarle un futuro saludable a nuestro planeta.</a>
+            </div>
+        </div>
+        </div>
+    </div>
+    
+    <div id="div_sost" style="width: 1350px; height: 800px; background-color: #FBF3EF;text-align: center;margin: 0px auto;">
+        <a id="titulo_conoce_sost" style="position: absolute; font-family: Consolas; font-size: 45px;margin-left: -450px;margin-top: 30px;"><b>Conoce nuestros uniformes <i>sostenibles</i></b></a>
+        <div id="fondo_sost" class="sostenible_div" style="background-position: center;width: 930px; height: 640px; background-color: #f6f2f2; margin-left: 20px;box-shadow: 0px 0px 5px gray;margin-top: 120px;position: absolute;">
+            <a style="position: absolute;color: black; font-size: 45px; font-family: Consolas;font-weight: 500;margin-top: 40px; margin-left: 10px;"></a>
+
+            
+           
+            
+            <video id="video_sost" poster="portada_video.png" style="position: absolute;margin-top: 100px; margin-left: -220px;box-shadow: 0px 0px 7px gray;" height="450px" width="450px" controls>
+                <source src="cuarta-version-video-uniformes-sostenibles.webm" type="video/webm">
+           
+            
+            </video>
+
+            <div id="foto_sost_arbol" class="foto_natura" style="height: 640px; width: 350px; position: absolute;background-size: 440px;margin-top: 0px;margin-left: 950px;border-radius: 2px;box-shadow: 0px 0px 5px gray;">
+
+            </div>
+            
+            <!<div style="position: absolute;width: 1350px; height: 100px;margin-left: -20px ;background-color: transparent;margin-top: 1500px;box-shadow: 0px 20px 20px gray;z-index: -21"></div>>
+        
+            
+        </div>
+    </div>
+    <div id="redondas_sost" style="height: 600px; width: 1350px; background-color: white;margin-top: 20px;margin: 0px auto;">
+        <div id="linea_verde" style="width: 1350px; height: 270px; margin-left: 0px; position: absolute; margin-top: 150px; z-index: 0;background-color: #d4e09b";></div>
+        <div id="redonda_sost1" class="redonda_sosts_0" style="position: absolute; height: 255px; width: 260px; margin-top: 160px; margin-left: 150px;"></div>
+        
+        <div id="redonda_sost2" class="redonda_sost" style="position: absolute; height: 255px; width: 260px;margin-top: 160px; margin-left: 550px;">
+         
+        </div>
+      
+        
+        <div id="redonda_sost3" class="redonda_sost_2" style="position: absolute;height: 255px; width: 260px; background-color:transparent;margin-top: 160px; margin-left: 950px; ">
+        </div>
+    </div>
+            
+    <div id="tres_puntos" style="width: 1350px; height: 600px;margin-top: -40px;margin: 0px auto;">
+        <div id="foto_preguntas" class="foto_preguntas" style="background-position: -450px 0px;height: 470px; width: 420px; background-color: ; position: absolute;margin: 64px 100px;"></div> 
+        
+        <div id="texto_preguntas" style="height: 470px; width: 670px; background-color: transparent; position: absolute;margin: 64px 640px;">
+            <a id="titulo_pregutnas" style="font-family: Consolas; font-size: 25.2px;position: absolute;"><b>Que opinan los alumnos de sus antiguos uniformes</b></a>
+            <a id="pregunta0" style="font-family: Consolas; font-size: 22px;position: absolute;margin-top: 50px;">"[...]es que el uniforme me hace sentir muy insegura."<br> <b>- Alumna anónima</b></a>
+            <a id="pregunta1" style="font-family: Consolas; font-size: 22px;position: absolute;margin-top: 130px;">"La sudadera es súper incomoda[...]quiero que llegue verano ya para no llevarla." <br><b>- Alumno anónimo</b></a>
+            
+            <a id="pregunta2" style="font-family: Consolas; font-size: 22px;position: absolute;margin-top:240px;">"No me gusta nada educa (educación física)[...]los pantalones me quedan fatal." <br><b>- Alumna anónima</b></a>
+
+            <a id="pregunta3" style="font-family: Consolas; font-size: 22px;position: absolute;margin-top: 350px;">[...]bueno, tú al menos no llevas los pantalones del uniforme."<br><b>- Alumno anónimo</b></a>
+            <div id="mas_menos" onnotclick="menos_review()" onclick="mas_reviews" style="height: 6px; width: 35px; background-color: transparent; position: absolute;margin-top: 450px; margin-left: 300px;">
+                <a onnotclick="menos_review()" onclick="mas_reviews()" style="color: black;text-decoration: none;font-family: Consolas; font-size: 22px;position: absolute;margin-top: -15px;margin-left: 0px;z-index: 3;">...</a>
+            </div>
+        </div> 
+        
+        
+    </div>
+            
+            
+    <div id="nosotros"class="nosotros"style="height: 640px; width: 1350px;border-radius: 0px;box-shadow: 0px 0px 0px gray;margin-top: 25px;margin: 0px auto;">
+        <a style="position: absolute;color: black; font-size: 45px; font-family: Consolas;font-weight: 500;margin-top: 40px; margin-left: 490px;"></a>
+        
+        
+        <div id="foto_nosotros" class="foto_nosotros" style="position: absolute; height: 540px; width: 470px;background-color: white;margin-top: 50px; margin-left: 800px;"></div>
+        
+        <div id="box_texto_nosotros" class="" style="position: absolute; height: 540px; width: 600px;background-color: white;margin-top: 50px; margin-left: 100px;">
+            <a id="titulo_nosotros" style="font-family: Consolas; font-size: 32px;padding: 25px;position: absolute; margin-top: 1px;">Nuestra historia<br><br></a>
+            <a id="texto_nosotros" style="font-family: Consolas; font-size: 15px;padding: 25px;line-height: 1.9;position: absolute;margin-top: 55px;">Ares Barbero (izquierda) y jo, Daniel Gleba (derecha), somos los fundadores de Youniform.es. Después de escuchar las quejas de nuestros compañeros comprendimos que los uniformes son de mayor importancia de la cual los centros escolares les otorgan. Nos dimos cuenta de que los diseños de estos hacían a nuestros iguales sentirse peor con ellos mismos, de esta forma perjudicando sus resultados escolares. Decidimos tomar las riendas de este problema y diseñar y producir uniformes en los que los alumnos se sintiesen sus mejores versiones. Aprovechamos la oportunidad para ofrecer uniformes de mayor calidad, durabilidad, comodidad, medioambientalmente sostenibles y, sobre todo, de un diseño que los alumnos aprueben. De esta forma fundando Youniform.es.</a>
+        </div>
+        
+        
+        <!><div class="persona" style="background-position:center;background-size: 340px;height: 280px;width: 280px; border-radius: 180px;position: absolute;margin-left: 200px;margin-top: 170px;box-shadow: 0px 0px 0px gray;text-align: center;">
+            <a style="font-family: Consolas; font-size: 22px; position:absolute; margin-top: 110px;margin-left: -128px;text-shadow: 0px 0xp 2px gray;"></a>
+        </div>
+        
+        <div class="persona" style="height: 280px;width: 280px; border-radius: 180px;position: absolute;margin-left: 100px;margin-top: 170px;box-shadow: 0px 0px 0px gray;text-align: center;background-size: 340px; background-position: center;">
+        <a style="font-family: Consolas; font-size: 22px; position:absolute; margin-top: 110px;margin-left: -128px;text-shadow: 0px 0xp 2px gray;"></a>
+        </div>
+        <a style="color: black;position:absolute;font-size:32px;font-family: Consolas;margin-left: 890px;margin-top: 480px;"></a></!>
+        
+    </div>
+    
+    
+        
+    <div id="contacto" style="width:1350px; height: 235px;background-color: #080C0C;margin: 0px auto;margin-bottom: 0px;">
+        <div id="linea_contacto"></div>
+
+        <div style="position: absolute; height: 50px; width: 370px;background-color: transparent;margin-left: 970px;margin-top: 20px;">
+        <a id="con_amor" style="position: absolute;color: white;margin: 0px auto;font-family: Consolas;font-size: 18px;">Hecho con ❤ por y para los alumnos</a>    
+    </div>
+        <a id="titulo_contactanos" style="color: white;position: absolute;font-family:Consolas; font-size: 28px;margin-left: 10px;margin-top: 20px;">Contáctanos en</a>
+        <a id="correo" style="color: white;position: absolute;margin-top: 33px;margin-left: 10px;font-family: Consolas; font-size: 18px;line-height: 1.5"><br>Correo electrónico: <br>Instagram:</a> <a id="ig" target="_blank" href="https://www.instagram.com/youniform.es/" style="color: white;position: absolute;margin-top: 86px;margin-left: 120px;font-family: Consolas; font-size: 18px;line-height: 1.5;text-decoration: none;">@youniform.es <br></a>
+        <a id="numero" style="color: white;position: absolute;margin-top: 115px;margin-left: 10px;font-family: Consolas; font-size: 18px;line-height: 1.5">Número de teléfono:</a> <a id="link_numero" style="position: absolute;color: white;position: absolute;margin-top: 115px;margin-left: 207px;font-family: Consolas; font-size: 18px;line-height: 1.5;position: absolute;"> +34 692 17 72 97</a>
+        <a id="link_mail" href="mailto:youniform.es.contacto@gmail.com" style="text-decoration: none;color: white;position: absolute;margin-top: 60px;margin-left: 207px;font-family: Consolas; font-size: 18px;line-height: 1.5">youniform.es.contacto@gmail.com</a>
+        
+        
+    <div>
+        <div  id="credit" style="background-color: transparent;margin: 197px 12px;position: absolute;font-size: 10px;" class="icon_autors">Crédito a<a href="https://www.flaticon.com/authors/nikita-golubev" title="Nikita Golubev" target="_blank"> Nikita Golubev</a>, <a href="https://www.flaticon.es/icono-gratis/clothing-store_1966143?related_item_id=1966142&term=store" target="_blank" title="itim2101">itim2101</a>, <a href="https://www.freepik.com/photos/background" target="_blank">lifeforstock</a>, <a target="_blank" href="https://www.pexels.com/es-es/">Cottonbro</a>, <a target="_blank" href='https://www.pexels.com/es-es/'>Designecologist</a>, <a target="_blank" href="https://www.pexels.com/es-es/">Ricardo Esquivel </a> & <a target="_blank" href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs </a>de <a href="https://www.flaticon.com/"  target="_blank" title="Flaticon">www.flaticon.com</a>, <a target="_blank" href="https://www.freepik.com/photos/background">www.freepik.com</a> & <a  target="_blank" href="https://www.pexels.com/es-es/">pexels.com</a></div>
+
+        <a id="copy" style="color: white;font-family: Consolas;margin: 190px auto;position: absolute;width: 1000px;">Todos los derechos reservados ©Youniform.es</a>
+    </div>
